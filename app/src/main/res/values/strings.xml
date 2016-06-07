@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">NemachtilkaliApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_lengua">LenguaActivity</string>
+    <string name="title_activity_tienda">TiendaActivity</string>
+    <string name="title_activity_maya">MayaActivity</string>
+    <string name="title_activity_nahuatl">NahuatlActivity</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_inicio">InicioActivity</string>
+    <string name="title_activity_reconocimiento_voz">ReconocimientoVozActivity</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_admin_bd">AdminBdActivity</string>
+    <string name="title_activity_img_color_nahuatl">ImgColorNahuatlActivity</string>
+    <string name="title_activity_palabra_comida">PalabraComidaActivity</string>
+    <string name="title_activity_palabra_perro">PalabraPerroActivity</string>
+    <string name="title_activity_palabra_color">PalabraColorActivity</string>
+    <string name="title_activity_img_perro_nahuatl">ImgPerroNahuatlActivity</string>
+    <string name="title_activity_voz_mapache_nahuatl">VozMapacheNahuatlActivity</string>
+    <string name="title_activity_felicitacion">FelicitacionActivity</string>
+    <string name="title_activity_voz_color">VozColorActivity</string>
+    <string name="title_activity_splash_nemachtikali">SplashNemachtikali</string>
+</resources>

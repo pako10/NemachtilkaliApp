@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.pakoandrade.nemachtilkaliapp">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".LenguaActivity"
+            android:label="@string/title_activity_lengua"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".TiendaActivity"
+            android:label="@string/title_activity_tienda"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".MayaActivity"
+            android:label="@string/title_activity_maya"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".NahuatlActivity"
+            android:label="@string/title_activity_nahuatl"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/title_activity_main"
+            android:theme="@style/AppTheme.NoActionBar">
+
+        </activity>
+        <activity
+            android:name=".ReconocimientoVozActivity"
+            android:label="@string/title_activity_reconocimiento_voz"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".ImgColorNahuatlActivity"
+            android:label="@string/title_activity_img_color_nahuatl"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".PalabraComidaActivity"
+            android:label="@string/title_activity_palabra_comida"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".PalabraPerroActivity"
+            android:label="@string/title_activity_palabra_perro"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".PalabraColorActivity"
+            android:label="@string/title_activity_palabra_color"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".ImgPerroNahuatlActivity"
+            android:label="@string/title_activity_img_perro_nahuatl"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".VozMapacheNahuatlActivity"
+            android:label="@string/title_activity_voz_mapache_nahuatl"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".FelicitacionActivity"
+            android:label="@string/title_activity_felicitacion"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".VozColorActivity"
+            android:label="@string/title_activity_voz_color"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".SplashNemachtikali"
+            android:label="@string/title_activity_splash_nemachtikali"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
